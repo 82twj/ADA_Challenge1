@@ -13,7 +13,7 @@ struct ClubData {
              clubTime: "주말 10시",
              clubPlace: "포스플렉스",
              clubDescription: "주말에 함께 수영을 해요~",
-             clubOwner: "루크",
+             clubOwner: "목련",
              maxMembers: 3,
              members: ["빈", "케빈", "크리스"],
              imageName: "figure.pool.swim"),
