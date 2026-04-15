@@ -174,12 +174,6 @@ Its goal is to create a foundation where groups do not end as one-time events, b
 5. Apply or cancel
 6. Create a new group if needed
 
-## Tech Stack
-
-- Swift
-- SwiftUI
-- Xcode
-
 ## Folder Structure
 
 ```bash
